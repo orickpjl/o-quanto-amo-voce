@@ -159,3 +159,34 @@ a{
     border-radius: 20px;
     position: absolute;
 }
+.playlist2{
+    position: absolute;
+    margin-top: 1395px;
+    margin-left: 50px;
+}
+.song{
+    position: absolute;
+    margin-top: 1480px;
+    margin-left: 640px;
+}
+.song2{
+    position: absolute;
+    margin-top: 1225px;
+    margin-left: 345px;
+}
+.foto7{
+    width: 335px;
+    position: absolute;
+    margin-top: 1575px;
+    margin-left: 905px;
+    border: 10px solid #ffffff;
+    border-radius: 20px;
+}
+.foto8{
+    width: 400px;
+    position: absolute;
+    margin-top: 1870px;
+    margin-left: 50px;
+    border: 10px solid #ffffff;
+    border-radius: 20px;
+}
